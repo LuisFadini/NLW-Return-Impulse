@@ -3,9 +3,9 @@
 
 ---
 
-<h2 align="center">👨‍💻 Backend e Frontend</h2>
+<h2 align="center">👨‍💻 Backend, Frontend e Mobile</h2>
 <p align="center">
-Aqui se encontra o Backend e o Frontend do projeto.
+Aqui se encontra o Backend, o Frontend e o Mobile do projeto.
 </p>
 
 ---

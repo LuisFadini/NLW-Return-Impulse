@@ -1,8 +1,0 @@
-[submodule "Backend"]
-	path = Backend
-	url = https://github.com/Luisin13/NLW-Return-Impulse.git
-	branch = Aula-3-Backend
-[submodule "Web"]
-	path = Web
-	url = https://github.com/Luisin13/NLW-Return-Impulse.git
-	branch = Aula-2-Web
