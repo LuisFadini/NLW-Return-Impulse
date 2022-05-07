@@ -1,0 +1,12 @@
+[submodule "Web"]
+	path = Web
+	url = https://github.com/Luisin13/NLW-Return-Impulse.git
+	branch = Aula-2-Web
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/Luisin13/NLW-Return-Impulse.git
+	branch = Aula-4-Mobile
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Luisin13/NLW-Return-Impulse.git
+	branch = Aula-3-Backend
