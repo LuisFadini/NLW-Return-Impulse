@@ -5,7 +5,7 @@
 
 <h2 align="center">👨‍💻 Backend, Frontend e Mobile</h2>
 <p align="center">
-Aqui se encontra o Backend, o Frontend e o Mobile do projeto.
+Aqui se encontra o Backend, o Frontend e o Mobile do projeto. E agora completo!
 </p>
 
 ---
